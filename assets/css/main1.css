@@ -1,5 +1,5 @@
 @import url(fontawesome-all.min.css);
-@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Cinzel+Decorative&family=Merriweather:ital,wght@0,300;0,700;1,300;1,700&family=Source+Sans+Pro:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Cinzel:wght@400;500;600;700;800;900&family=Merriweather:ital,wght@0,300;0,700;1,300&family=Source+Sans+Pro:wght@900&display=swap');
 
 /*
 	Massively by HTML5 UP
@@ -149,7 +149,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		font-family: 'Cinzel', serif;
-		font-weight: 300;
+		font-weight: 400;
 		font-size: 1rem;
 		line-height: 2.375;
 	}
@@ -188,9 +188,8 @@ input, select, textarea {
 
 	h2, h3, h4, h5, h6 {
 		font-family: 'Cinzel', serif;
-		font-weight: 900;
+		font-weight: 400;
 		line-height: 1.5;
-		letter-spacing: 0.075em;
 		text-transform: uppercase;
 		margin: 0 0 1rem 0;
 	}
@@ -2088,7 +2087,7 @@ input, select, textarea {
 		display: inline-block;
 		font-family: 'Cinzel', serif;
 		font-size: 0.8rem;
-		font-weight: 900;
+		font-weight: 400;
 		letter-spacing: 0.075em;
 		height: 3rem;
 		line-height: 3rem;
@@ -2322,7 +2321,7 @@ input, select, textarea {
 	label {
 		display: block;
 		font-family: 'Cinzel', serif;
-		font-weight: 900;
+		font-weight: 400;
 		line-height: 1.5;
 		letter-spacing: 0.075em;
 		font-size: 0.8rem;
@@ -2417,7 +2416,7 @@ input, select, textarea {
 			letter-spacing: 0;
 			font-family: 'Cinzel', serif;
 			text-transform: none;
-			font-weight: 300;
+			font-weight: 400;
 			padding-left: 2.8rem;
 			padding-right: 1rem;
 			position: relative;
@@ -2434,7 +2433,7 @@ input, select, textarea {
 				line-height: 1;
 				text-transform: none !important;
 				font-family: 'Cinzel', serif;
-				font-weight: 900;
+				font-weight: 400;
 			}
 
 			input[type="checkbox"] + label:before,
@@ -3031,14 +3030,12 @@ input, select, textarea {
 		}
 
 		table th {
-			font-family: "Source Sans Pro", Helvetica, sans-serif;
-			font-size: 0.8rem;
-			font-weight: 900;
-			letter-spacing: 0.075em;
+			font-family: 'Cinzel', serif;
+			font-size: 0.9rem;
+			font-weight: 400;
 			line-height: 1.5;
 			padding: 0 0.75rem 0.75rem 0.75rem;
 			text-align: left;
-			text-transform: uppercase;
 		}
 
 			@media screen and (max-width: 980px) {
@@ -3133,7 +3130,7 @@ input, select, textarea {
 			display: inline-block;
 			font-family: 'Cinzel', serif;
 			font-size: 0.8rem;
-			font-weight: 900;
+			font-weight: 400;
 			height: 3rem;
 			letter-spacing: 0.075em;
 			line-height: calc(3rem - 4px);
@@ -3160,7 +3157,7 @@ input, select, textarea {
 				line-height: 1;
 				text-transform: none !important;
 				font-family: 'Cinzel', serif;
-				font-weight: 900;
+				font-weight: 400;
 			}
 
 			.pagination .next:before, .pagination .previous:before {
@@ -3576,7 +3573,7 @@ input, select, textarea {
 			border-width: 5px !important;
 			font-family: 'Cinzel Decorative', cursive;
 			font-size: 2.25rem;
-			font-weight: 900;
+			font-weight: 400;
 			letter-spacing: 0.075em;
 			line-height: 1;
 			padding: 1rem 1.75rem;
@@ -3699,7 +3696,7 @@ input, select, textarea {
 			-ms-flex-shrink: 1;
 			flex-shrink: 1;
 			font-family: 'Cinzel', serif;
-			font-weight: 900;
+			font-weight: 400;
 			letter-spacing: 0.075em;
 			list-style: none;
 			margin-bottom: 0;
@@ -4599,7 +4596,7 @@ input, select, textarea {
 					font-family: 'Cinzel', serif;
 					font-size: 0.9rem;
 					font-size: 0.9rem;
-					font-weight: 900;
+					font-weight: 400;
 					letter-spacing: 0.075em;
 					padding: 0.75rem 0;
 					text-transform: uppercase;
